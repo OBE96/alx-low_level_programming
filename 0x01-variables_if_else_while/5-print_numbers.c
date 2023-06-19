@@ -9,8 +9,8 @@ int i = 0;
 while (i <= 9)
 {
 printf("%d", i);
-printf("\n");
 i++;
 }
+printf("\n");
 return (0);
 }
