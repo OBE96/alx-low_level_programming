@@ -12,6 +12,7 @@ while (b <= 'z')
 {
 if (b != c && b != d)
 putchar(b);
+b++;
 }
 putchar('\n');
 return (0);
