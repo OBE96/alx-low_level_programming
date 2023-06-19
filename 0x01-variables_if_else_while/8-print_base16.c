@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main Write a program that prints all the numbers of base sixteen
+ * main - Write a program that prints all the numbers of base sixteen
  * Return: 0 (success)
  */
 int main(void)
